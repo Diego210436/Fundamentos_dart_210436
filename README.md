@@ -20,7 +20,7 @@ Proyecto de cCase para la Unidad 1 de la Asignatura de Desarrollo Móvil integra
 |12|Clases Abstractas|11|Activa|
 |Tarea04|Uso de las clases abstractas en el caso de estudio|10|Activa|
 |13|Aserciones|3|Activa|
-|14|Mixins|9|Activa|
+|14|Mixins|9|Activa |
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style-for-the-badge&logo=dart&logoColor=white)
 
